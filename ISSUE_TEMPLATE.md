@@ -1,39 +1,41 @@
+> 🌐 本文档由 [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) 翻译,英文原版见原项目。
+
 <!--
-Thanks for your contribution! If you're submitting a tutorial, please ensure it includes a guided path for learners, either through a step-by-step article or by breaking down code into digestible parts that are easy to follow. Please submit only programming tutorials that build something interesting from scratch; no frameworks, libraries, guides for frameworks/libraries or tutorials that glue just other libraries together. 
+感谢你的贡献!如果你要提交的是教程,请确保它为学习者提供了一条清晰的学习路径:要么是一篇 step-by-step 的文章,要么是把代码拆分成易于跟读的小块。请只提交从零开始构建有趣东西的编程类教程;不要提交框架、库、框架/库的使用指南,或者只是把别人的库拼装在一起的教程。
 -->
 
-### Main programming language
-<!-- max. 1 -->
+### 主要编程语言
+<!-- 最多填 1 个 -->
 
-### Tutorial title
-<!-- the original title from the article, repository, ... -->
+### 教程标题
+<!-- 填写文章、仓库等的原标题 -->
 
-### Tutorial URL
+### 教程链接
 
-### Category
-* [ ] 3D Renderer
-* [ ] Augmented Reality
-* [ ] BitTorrent Client
-* [ ] Blockchain / Cryptocurrency
-* [ ] Bot
-* [ ] Command-Line Tool
-* [ ] Database
+### 分类
+* [ ] 3D 渲染器
+* [ ] 增强现实
+* [ ] BitTorrent 客户端
+* [ ] 区块链 / 加密货币
+* [ ] 机器人(Bot)
+* [ ] 命令行工具
+* [ ] 数据库
 * [ ] Docker
-* [ ] Emulator / Virtual Machine
-* [ ] Front-end Framework / Library
-* [ ] Game
+* [ ] 模拟器 / 虚拟机
+* [ ] 前端框架 / 库
+* [ ] 游戏
 * [ ] Git
-* [ ] Network Stack
-* [ ] Neural Network
-* [ ] Operating System
-* [ ] Physics Engine
-* [ ] Programming Language
-* [ ] Regex Engine
-* [ ] Search Engine
+* [ ] 网络协议栈
+* [ ] 神经网络
+* [ ] 操作系统
+* [ ] 物理引擎
+* [ ] 编程语言
+* [ ] 正则表达式引擎
+* [ ] 搜索引擎
 * [ ] Shell
-* [ ] Template Engine
-* [ ] Visual Recognition System
-* [ ] Voxel Engine
-* [ ] Web Search Engine
-* [ ] Web Server
-* [ ] Uncategorized
+* [ ] 模板引擎
+* [ ] 视觉识别系统
+* [ ] 体素引擎
+* [ ] Web 搜索引擎
+* [ ] Web 服务器
+* [ ] 未分类
